@@ -7,6 +7,10 @@ forked from [https://github.com/zabbix/zabbix-docker](https://github.com/zabbix/
 
 - [Zabbix TimescaleDB](https://www.zabbix.com/documentation/current/en/manual/appendix/install/timescaledb)
 
+### support TimescaleDB
+
+- [Zabbix support TimescaleDB](https://www.zabbix.com/documentation/6.0/en/manual/introduction/whatsnew608)
+
 ## Links
 
 - [https://hub.docker.com/r/timescale/timescaledb](https://hub.docker.com/r/timescale/timescaledb)
